@@ -55,5 +55,6 @@ public class MyClass {
         System.arraycopy(a2, 0, arr, HALF, HALF);
         System.out.println("Метод 2 = " + (System.currentTimeMillis() - a));
     }
+    //pull request
 
 }
