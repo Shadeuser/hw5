@@ -3,6 +3,6 @@ public class Main {
         MyClass myClass = new MyClass();
         myClass.met1();
         myClass.met2();
-        //pull request
+
     }
 }
